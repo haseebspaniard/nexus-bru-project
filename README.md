@@ -26,6 +26,8 @@ This project was completed as part of my **Cloud & DevOps course** at Akumen by 
 ---
 
 ## 📁 Project Structure
+
+```
 nexus-bru-project/
 ├── website/
 │   ├── index.html
@@ -35,7 +37,7 @@ nexus-bru-project/
 ├── backup_nginx.sh
 ├── monitor_nginx.sh
 └── README.md
----
+```
 
 ## 🔧 Scripts
 
