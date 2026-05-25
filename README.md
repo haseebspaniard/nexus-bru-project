@@ -83,6 +83,7 @@ sudo crontab -l
 
 ## 👤 Author
 
-**abdul haseeb**
+**Abdul Haseeb**
 Cloud & DevOps Learner | Former CS Teacher
-[Medium](https://medium.com/@haseebabdul480) | [LinkedIn](www.linkedin.com/in/abdulhaseebas)
+
+[Medium](https://medium.com/@haseebabdul480) | [LinkedIn](https://www.linkedin.com/in/abdulhaseebas)
