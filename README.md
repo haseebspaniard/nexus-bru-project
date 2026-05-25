@@ -80,8 +80,14 @@ sudo crontab -l
 - Using `tar` for compressed backups with timestamps
 
 ---
+## 📸 Screenshots
+
+### Website Live on Port 76
 <img width="1366" height="683" alt="image" src="https://github.com/user-attachments/assets/6a9a431f-590c-4b8e-93dd-044625a381cd" />
+
+### Monitoring Script Output
 <img width="610" height="518" alt="image" src="https://github.com/user-attachments/assets/e99f8d12-ce97-4608-8af8-66c7eebb4c41" />
+
 
 ## 👤 Author
 
